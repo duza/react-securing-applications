@@ -1,3 +1,18 @@
-{
-  "mock": "data"
-}
+[
+  {
+    "name": "First feed",
+    "content": "Some content for first feed"
+  },
+  {
+    "name": "Second feed",
+    "content": "Some content for second feed"
+  },
+  {
+    "name": "Third feed",
+    "content": "Some content for third feed"
+  },
+  {
+    "name": "Fourth feed",
+    "content": "Some content for fourth feed"
+  }
+]
